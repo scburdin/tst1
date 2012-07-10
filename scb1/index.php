@@ -1,0 +1,6 @@
+<?php
+
+
+// change A
+
+phpinfo();
